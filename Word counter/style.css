@@ -9,12 +9,7 @@
             padding: 12px;
             margin: 0px;
         }
-        #container{
-            width: 97%;
-            border:2px solid rgb(14, 14, 72);
-            font-size: 20px;
-            background-color: rgb(23, 193, 209);
-        }
+       
         p{
             text-align: center;
             background-color:rgb(14, 14, 72) ;
