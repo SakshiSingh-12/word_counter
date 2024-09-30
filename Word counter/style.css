@@ -24,36 +24,3 @@
             margin: 0px;
         }
         
-        @media  screen and ((max-width:430px) and (min-width:280px))
-         {
-            h1{
-            text-align: center;
-            background-color: rgb(14, 14, 72);
-            color: white;
-            padding: 1px;
-            margin: 0px;
-        }
-        #textbox{
-            width: 96%;
-            border:2px solid rgb(14, 14, 72);
-            font-size: 10px;
-            background-color: rgb(23, 193, 209);
-        } 
-    } 
-        @media  screen and ((max-width:540px) and (min-width:2600))
-         {
-            h1{
-            text-align: center;
-            background-color: rgb(14, 14, 72);
-            color: white;
-            padding: 1px;
-            margin: 0;
-        }
-        #container{
-            width: 96%;
-            border:2px solid rgb(14, 14, 72);
-            font-size: 10px;
-            background-color: rgb(23, 193, 209);
-        }  
-        }
-  
