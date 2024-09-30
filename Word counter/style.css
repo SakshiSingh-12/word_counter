@@ -48,7 +48,8 @@
             text-align: center;
             background-color: rgb(14, 14, 72);
             color: white;
-           
+            padding: 1px;
+            margin: 0;
         }
         #container{
             width: 96%;
