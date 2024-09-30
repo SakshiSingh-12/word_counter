@@ -16,7 +16,14 @@
             background-color: rgb(23, 193, 209);
         }
        
-        
+         p{
+            text-align: center;
+            background-color:rgb(14, 14, 72) ;
+            font-size: 25px;
+            font-weight: bold;
+            padding: 10px;
+            margin: 0px;
+        }
 
         @media  screen and ((max-width:430px) and (min-width:280px))
          {
