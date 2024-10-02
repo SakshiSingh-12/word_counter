@@ -7,6 +7,7 @@ let textbox = document.getElementById("textbox");
 
            document.getElementById("char").innerHTML = char;
            
+           text = text.trim();
           
            document.getElementById("word").innerHTML = words.length;
         });
