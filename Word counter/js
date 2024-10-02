@@ -1,3 +1,2 @@
- <script>
-        
-    </script>
+let textbox = document.getElementById("textbox");
+
