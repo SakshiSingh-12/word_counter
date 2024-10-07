@@ -6,7 +6,7 @@ let textbox = document.getElementById("textbox");
           let char = text.length;
 
           document.getElementById("char").innerHTML = char;
-           text = text.trim();
+           text = text.trim(); 
            let words = text.split(" ");
            let cleanList = words.filter(function(elm){
             return elm != "";
