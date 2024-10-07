@@ -1,3 +1,7 @@
 let textbox = document.getElementById("textbox");
 
 
+
+        textbox.addEventListener('input', function(){
+          
+        });
