@@ -8,6 +8,7 @@ let textbox = document.getElementById("textbox");
 
           document.getElementById("char").innerHTML = char;
            text = text.trim();
+           let words = text.split(" ");
            
            
         });
