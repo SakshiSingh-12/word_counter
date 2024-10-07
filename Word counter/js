@@ -12,5 +12,5 @@ let textbox = document.getElementById("textbox");
            });
            document.getElementById("word").innerHTML = words.length; 
           
-           
+ 
         });
