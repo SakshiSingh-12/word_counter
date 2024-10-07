@@ -12,6 +12,7 @@ let textbox = document.getElementById("textbox");
            let cleanList = words.filter(function(elm){
             return elm != "";
            });
-           
+           document.getElementById("word").innerHTML = words.length; 
+          
            
         });
